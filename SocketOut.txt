@@ -1,0 +1,176 @@
+AuftragsAgent_initialisiert: Auftrag_Typ_4.1
+B:Auftrag_Typ_4.1:Fräsen_3:1609.0798:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.1
+B:Auftrag_Typ_5.1:Drehen_1:878.22:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.1
+B:Auftrag_Typ_3.1:Fräsen_3:202.35397:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.2
+B:Auftrag_Typ_4.2:Fräsen_6:740.51996:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.2
+B:Auftrag_Typ_5.2:Drehen_3:860.99994:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.2
+B:Auftrag_Typ_3.2:Fräsen_3:202.35397:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.3
+B:Auftrag_Typ_4.3:Fräsen_1:498.96002:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.1
+B:Auftrag_Typ_1.1:Drehen_1:96.39:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.3
+B:Auftrag_Typ_3.3:Fräsen_5:126.99:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.2
+B:Auftrag_Typ_1.2:Drehen_6:82.619995:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.4
+B:Auftrag_Typ_4.4:Fräsen_3:1609.0798:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.4
+B:Auftrag_Typ_3.4:Fräsen_1:62.748005:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.3
+B:Auftrag_Typ_1.3:Drehen_6:82.619995:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.3
+B:Auftrag_Typ_5.3:Drehen_3:860.99994:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.5
+B:Auftrag_Typ_4.5:Fräsen_1:498.96002:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.5
+B:Auftrag_Typ_3.5:Fräsen_4:160.854:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.6
+B:Auftrag_Typ_3.6:Fräsen_3:202.35397:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.6
+B:Auftrag_Typ_4.6:Fräsen_4:1279.08:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.4
+B:Auftrag_Typ_5.4:Drehen_3:860.99994:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.7
+B:Auftrag_Typ_3.7:Fräsen_6:93.126:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.8
+B:Auftrag_Typ_3.8:Fräsen_1:62.748005:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.4
+B:Auftrag_Typ_1.4:Drehen_2:27.810001:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.5
+B:Auftrag_Typ_5.5:Drehen_3:860.99994:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.9
+B:Auftrag_Typ_3.9:Fräsen_1:62.748005:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.6
+B:Auftrag_Typ_5.6:Drehen_2:253.38:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_2.1
+B:Auftrag_Typ_2.1:Fräsen_3:141.40399:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.10
+B:Auftrag_Typ_3.10:Fräsen_2:165.58499:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.5
+B:Auftrag_Typ_1.5:Drehen_4:96.39:Puffer;
+B:Auftrag_Typ_1.2:Fräsen_2:239.4:Drehen_6;
+AuftragsAgent_initialisiert: Auftrag_Typ_2.2
+B:Auftrag_Typ_2.2:Fräsen_1:43.848003:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.7
+B:Auftrag_Typ_4.7:Fräsen_5:1009.8:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_2.3
+B:Auftrag_Typ_2.3:Fräsen_1:43.848003:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.6
+B:Auftrag_Typ_1.6:Drehen_1:96.39:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.11
+B:Auftrag_Typ_3.11:Fräsen_1:62.748005:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.7
+B:Auftrag_Typ_1.7:Drehen_1:96.39:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.8
+B:Auftrag_Typ_1.8:Drehen_5:68.85:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.12
+B:Auftrag_Typ_3.12:Fräsen_2:165.58499:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.7
+B:Auftrag_Typ_5.7:Drehen_5:627.3:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_2.4
+B:Auftrag_Typ_2.4:Fräsen_2:115.70999:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.13
+B:Auftrag_Typ_3.13:Fräsen_4:160.854:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.14
+B:Auftrag_Typ_3.14:Fräsen_1:62.748005:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.15
+B:Auftrag_Typ_3.15:Fräsen_5:126.99:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.9
+B:Auftrag_Typ_1.9:Drehen_1:96.39:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.16
+B:Auftrag_Typ_3.16:Fräsen_2:165.58499:Puffer;
+B:Auftrag_Typ_3.3:Drehen_4:128.52:Fräsen_5;
+AuftragsAgent_initialisiert: Auftrag_Typ_6.1
+B:Auftrag_Typ_6.1:Drehen_6:1597.32:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.10
+B:Auftrag_Typ_1.10:Drehen_5:68.85:Puffer;
+B:Auftrag_Typ_1.5:Fräsen_1:90.72:Drehen_4;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.8
+B:Auftrag_Typ_5.8:Drehen_4:878.22:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.11
+B:Auftrag_Typ_1.11:Drehen_2:27.810001:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.12
+B:Auftrag_Typ_1.12:Drehen_3:94.49999:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.13
+B:Auftrag_Typ_1.13:Drehen_6:82.619995:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.14
+B:Auftrag_Typ_1.14:Drehen_5:68.85:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.9
+B:Auftrag_Typ_5.9:Drehen_6:752.76:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.17
+B:Auftrag_Typ_3.17:Fräsen_1:62.748005:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_2.5
+B:Auftrag_Typ_2.5:Fräsen_5:88.74:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_1.15
+B:Auftrag_Typ_1.15:Drehen_2:27.810001:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_3.18
+B:Auftrag_Typ_3.18:Fräsen_3:202.35397:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.8
+B:Auftrag_Typ_4.8:Fräsen_2:1316.7:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.10
+B:Auftrag_Typ_5.10:Drehen_3:860.99994:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_4.9
+B:Auftrag_Typ_4.9:Fräsen_1:498.96002:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.11
+B:Auftrag_Typ_5.11:Drehen_6:752.76:Puffer;
+AuftragsAgent_initialisiert: Auftrag_Typ_5.12
+B:Auftrag_Typ_5.12:Drehen_4:878.22:Puffer;
+B:Auftrag_Typ_1.3:Fräsen_1:90.72:Drehen_6;
+B:Auftrag_Typ_5.1:Schleifen_1:627.3:Drehen_1;
+B:Auftrag_Typ_5.1:Fräsen_5:1422.9:Schleifen_1;
+B:Auftrag_Typ_5.2:Schleifen_1:627.3:Drehen_3;
+B:Auftrag_Typ_3.15:Drehen_1:128.52:Fräsen_5;
+B:Auftrag_Typ_3.3:Lackieren_2:91.799995:Drehen_4;
+B:Auftrag_Typ_4.1:Drehen_6:156.06:Fräsen_3;
+B:Auftrag_Typ_4.2:Drehen_2:52.530003:Fräsen_6;
+B:Auftrag_Typ_4.3:Drehen_6:156.06:Fräsen_1;
+B:Auftrag_Typ_1.9:Fräsen_6:134.64:Drehen_1;
+B:Auftrag_Typ_5.1:Lackieren_5:1422.9:Fräsen_5;
+B:Auftrag_Typ_5.1:Verpackung_1:0.0:Lackieren_5;
+B:Auftrag_Typ_3.10:Drehen_3:125.99999:Fräsen_2;
+B:Auftrag_Typ_1.4:Fräsen_4:232.56:Drehen_2;
+B:Auftrag_Typ_3.7:Drehen_2:37.08:Fräsen_6;
+B:Auftrag_Typ_4.2:Verpackung_3:0.0:Drehen_2;
+B:Auftrag_Typ_3.15:Lackieren_2:91.799995:Drehen_1;
+B:Auftrag_Typ_3.7:Lackieren_1:91.799995:Drehen_2;
+B:Auftrag_Typ_2.5:Drehen_6:91.799995:Fräsen_5;
+B:Auftrag_Typ_1.15:Fräsen_3:292.55997:Drehen_2;
+B:Auftrag_Typ_1.11:Fräsen_5:183.59999:Drehen_2;
+B:Auftrag_Typ_3.18:Drehen_2:37.08:Fräsen_3;
+B:Auftrag_Typ_1.7:Fräsen_3:292.55997:Drehen_1;
+B:Auftrag_Typ_1.9:Schleifen_3:61.199997:Fräsen_6;
+B:Auftrag_Typ_4.8:Drehen_4:182.06999:Fräsen_2;
+B:Auftrag_Typ_1.9:Lackieren_2:61.199997:Schleifen_3;
+B:Auftrag_Typ_1.9:Verpackung_2:0.0:Lackieren_2;
+B:Auftrag_Typ_1.6:Fräsen_2:239.4:Drehen_1;
+B:Auftrag_Typ_1.15:Schleifen_4:70.38:Fräsen_3;
+B:Auftrag_Typ_1.15:Lackieren_1:61.199997:Schleifen_4;
+B:Auftrag_Typ_1.15:Verpackung_3:0.0:Lackieren_1;
+B:Auftrag_Typ_3.16:Drehen_5:91.799995:Fräsen_2;
+B:Auftrag_Typ_1.1:Fräsen_6:134.64:Drehen_1;
+B:Auftrag_Typ_5.6:Schleifen_4:961.86:Drehen_2;
+B:Auftrag_Typ_5.6:Fräsen_1:703.08:Schleifen_4;
+B:Auftrag_Typ_1.8:Fräsen_5:183.59999:Drehen_5;
+B:Auftrag_Typ_3.18:Lackieren_4:91.799995:Drehen_2;
+B:Auftrag_Typ_1.3:Schleifen_3:61.199997:Fräsen_1;
+B:Auftrag_Typ_1.6:Schleifen_6:9.18:Fräsen_2;
+B:Auftrag_Typ_3.16:Lackieren_4:91.799995:Drehen_5;
+B:Auftrag_Typ_1.6:Lackieren_4:61.199997:Schleifen_6;
+B:Auftrag_Typ_1.1:Schleifen_6:9.18:Fräsen_6;
+B:Auftrag_Typ_1.1:Lackieren_6:61.199997:Schleifen_6;
+B:Auftrag_Typ_5.2:Fräsen_5:1422.9:Schleifen_1;
+B:Auftrag_Typ_1.1:Verpackung_1:0.0:Lackieren_6;
+B:Auftrag_Typ_1.3:Lackieren_2:61.199997:Schleifen_3;
+B:Auftrag_Typ_1.14:Fräsen_6:134.64:Drehen_5;
+B:Auftrag_Typ_1.3:Verpackung_4:15.299999:Lackieren_2;
+B:Auftrag_Typ_2.4:Drehen_5:76.5:Fräsen_2;
+B:Auftrag_Typ_1.7:Schleifen_5:12.24:Fräsen_3;
+B:Auftrag_Typ_1.7:Lackieren_6:61.199997:Schleifen_5;
+B:Auftrag_Typ_5.11:Schleifen_3:836.39996:Drehen_6;
+B:Auftrag_Typ_5.11:Fräsen_3:2267.3398:Schleifen_3;

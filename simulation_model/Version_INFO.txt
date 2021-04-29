@@ -1,0 +1,3 @@
+Sennheiser 1.1.2 -> Belegungsplanung (Auswahl von Reihenfolgebildung möglich)
+Sennheiser 5.4 -> Reihenfolgebildung + Belegungsplanung 
+Vorstudie_Neuronales Netz -> Identisch zu Sennheiser 1.1.2 
